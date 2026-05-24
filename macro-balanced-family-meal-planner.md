@@ -17,6 +17,8 @@ Macros & Portions: All adult meals must balance out to roughly [Target Macro Spl
 
 Carbohydrate Sources: Rely primarily on [List preferred carbs, e.g., brown rice, potatoes, high-protein pasta]. Strictly NO [List avoided carbs, e.g., tortillas, refined sugar].
 
+Protein Sources: Rely primarily on [List preferred proteins, e.g., chicken thighs, eggs, salmon]. Strictly NO [List avoided proteins, e.g., pork, shellfish etc.].
+
 Available Equipment: Maximize the use of the following tools for efficiency during prep and assembly: [List your kitchen appliances, e.g., Air fryer, Instant Pot, veggie chopper].
 
 Inspiration Sources: Draw recipe concepts from [Website/Creator 1] for scaleable meals, [Website/Creator 2] for macro-friendly components, and [Website/Creator 3] for cultural/flavor inspiration.
